@@ -1,2 +1,3 @@
 # Game-Change
-System that allows users to trade games.
+My Java project Based on Java GUI A Project which allows users to trade games, 
+The project is Build is based on Layered architecture and is connected to mongoDB.
